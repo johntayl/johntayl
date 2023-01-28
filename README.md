@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Full Stack Web Engineer with over 10 years of experience building web and backend applications. 
+I'm a Full Stack Web Engineer with over a decade of experience building web and backend applications. 
 
 Senior Staff Engineer @ [Fueled](https://fueled.com) ⛽
 
