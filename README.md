@@ -4,7 +4,7 @@
 
 I'm a Full Stack Web Engineer with over a decade of experience building web and backend applications. 
 
-Principal Engineer @ [Fueled](https://fueled.com) ⛽
+Staff Developer @ [Shopify](https://shopify.com)
 
 Mentor and community member @ [TorontoJS](https://torontojs.com). 
 
